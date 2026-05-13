@@ -1,25 +1,24 @@
-1️⃣  **What problem is this solving?** (REQUIRED)
+## What problem is this solving?
+    adding description here
 
-- [X] Leave check by check what problems we are solving
-- [X] Like this
-- [X] Or this
+## Types of changes
 
-2️⃣  **How should this be manually tested?**
+- [X] Change 1
+- [X] Change 2
+- [X] Change 3
 
-You can explain with words and images how to test it or use only the next symbol ❌ to explain that this point its N/A
+## Additional Info
 
-3️⃣  **Screenshots or example usage**
+- Any additional information or context
 
-You can explain with words and images how to test it or use only the next symbol ❌ to explain that this point its N/A
+## Checklist
 
+- [X] Bug fix (a non-breaking change which fixes an issue)
+- [X] New feature (a non-breaking change which adds functionality)
+- [X] Breaking change (fix or feature that would cause existing functionality to change)
+- [X] Requires change to documentation, which has been updated accordingly.
+- [X] Unit test (Add or update unit test)
 
-4️⃣ **PR's related**
+## Screenshots
 
-- [ ] add PR url here if you dont have PR's related leave an ❌
-
-5️⃣ **Types of changes** (REQUIRED - Choose only options what you need delete the rest)
-
-* [ ] Bug fix (a non-breaking change which fixes an issue)
-* [ ] New feature (a non-breaking change which adds functionality)
-* [ ] Breaking change (fix or feature that would cause existing functionality to change)
-* [ ] Requires change to documentation, which has been updated accordingly.
+- Any screenshot
